@@ -1,0 +1,5 @@
+file = open('harry.txt','wb')
+print(file.mode)
+print(file.name)
+file.write(bytes("my name is anish","utf-8"))
+file.close()
