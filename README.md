@@ -23,3 +23,4 @@ Introduction to Modules and Built-in Functions
 🎯 Purpose:
 To strengthen my core understanding of Python and prepare for real-world projects, data analytics, and automation tasks.
 
+It is designed to build a strong programming foundation for beginners and support further learning in data analytics and automation.
